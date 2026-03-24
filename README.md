@@ -6,11 +6,11 @@
 ---
 
 ## 📌 Structure
-
+```
 algorithm-archive/
 ├── Season01  # 2022 ~ 2024 (초기 학습 기록)
 ├── Season02  # 2026 ~ (재학습 및 심화 과정)
-
+```
 ---
 
 ## 🚀 Season Overview
