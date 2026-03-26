@@ -1,3 +1,13 @@
+# BOJ 10866 덱
+# 날짜: 2026-03-24
+# 분류: 덱, 구현
+# 핵심 아이디어:
+# - 배열 기반 원형 큐로 덱 구현
+# - front, rear 포인터 관리
+# - push_front / push_back 양방향 처리
+# - 인덱스는 mod 연산으로 순환
+# 시간복잡도: O(1)
+
 import sys
 input = sys.stdin.readline
 
