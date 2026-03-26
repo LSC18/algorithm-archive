@@ -1,3 +1,13 @@
+# BOJ 10845 큐
+# 날짜: 2026-03-25
+# 분류: 큐, 구현
+# 핵심 아이디어:
+# - 배열 기반 큐 구현
+# - front, rear 포인터 사용
+# - push는 rear 증가, pop은 front 증가
+# - 원형 큐로 overflow 방지
+# 시간복잡도: O(1)
+
 import sys
 input = sys.stdin.readline
 
