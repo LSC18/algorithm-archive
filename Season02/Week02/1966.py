@@ -21,7 +21,6 @@ for _ in range(T):
     
     # (인덱스, 중요도) 형태로 변경
     s = deque((i, s[i]) for i in range(N))
-    
     cnt = 0
     
     while True:
