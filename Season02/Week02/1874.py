@@ -33,6 +33,5 @@ for _ in range(N):
         print("NO")
         sys.exit()
 
-# 결과 출력
 for x in out:
     print(x)
